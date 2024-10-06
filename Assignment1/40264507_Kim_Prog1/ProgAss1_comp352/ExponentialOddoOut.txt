@@ -1,0 +1,9 @@
+ExponentialOdd(5): 5	 time taken to run the algorithm: 0ms
+ExponentialOdd(10): 105	 time taken to run the algorithm: 0ms
+ExponentialOdd(15): 2209	 time taken to run the algorithm: 1ms
+ExponentialOdd(20): 46499	 time taken to run the algorithm: 0ms
+ExponentialOdd(25): 978793	 time taken to run the algorithm: 4ms
+ExponentialOdd(30): 20603361	 time taken to run the algorithm: 60ms
+ExponentialOdd(35): 433695873	 time taken to run the algorithm: 1131ms
+ExponentialOdd(40): 9129195487	 time taken to run the algorithm: 22737ms
+ExponentialOdd(45): 192167404461	 time taken to run the algorithm: 476827ms
