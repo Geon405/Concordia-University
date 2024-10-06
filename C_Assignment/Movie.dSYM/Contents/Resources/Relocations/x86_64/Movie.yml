@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/geonkim/Desktop/COMP 348/Assignment1/Movie'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _checkIfUserExists, symObjAddr: 0x0, symBinAddr: 0x100002A70, symSize: 0xE0 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _checkIfUserExists, symObjAddr: 0x0, symBinAddr: 0x100002A70, symSize: 0xE0 }
+  - { offsetInCU: 0x88, offset: 0x88, size: 0x8, addend: 0x0, symName: _registerUser, symObjAddr: 0xE0, symBinAddr: 0x100002B50, symSize: 0x270 }
+  - { offsetInCU: 0x10E, offset: 0x10E, size: 0x8, addend: 0x0, symName: _displayMenu, symObjAddr: 0x350, symBinAddr: 0x100002DC0, symSize: 0x60 }
+  - { offsetInCU: 0x123, offset: 0x123, size: 0x8, addend: 0x0, symName: _displayMovies, symObjAddr: 0x3B0, symBinAddr: 0x100002E20, symSize: 0x140 }
+  - { offsetInCU: 0x183, offset: 0x183, size: 0x8, addend: 0x0, symName: _validateMovieIndex, symObjAddr: 0x4F0, symBinAddr: 0x100002F60, symSize: 0x90 }
+  - { offsetInCU: 0x1B9, offset: 0x1B9, size: 0x8, addend: 0x0, symName: _updateRating, symObjAddr: 0x580, symBinAddr: 0x100002FF0, symSize: 0x120 }
+  - { offsetInCU: 0x269, offset: 0x269, size: 0x8, addend: 0x0, symName: _rateMovie, symObjAddr: 0x6A0, symBinAddr: 0x100003110, symSize: 0x400 }
+  - { offsetInCU: 0x38B, offset: 0x38B, size: 0x8, addend: 0x0, symName: _getMovieRecommendation, symObjAddr: 0xAA0, symBinAddr: 0x100003510, symSize: 0x5C0 }
+  - { offsetInCU: 0x58F, offset: 0x58F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1060, symBinAddr: 0x100003AD0, symSize: 0xD4 }
+...
